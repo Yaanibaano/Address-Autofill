@@ -1,10 +1,10 @@
 # gmap_api
 
-A new Flutter project.
+This is flutter project which allows users to autofill their address section using thier location
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Project is complete
 
 A few resources to get you started if this is your first Flutter project:
 
