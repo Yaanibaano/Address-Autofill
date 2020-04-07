@@ -1,6 +1,6 @@
 # gmap_api
 
-This is flutter project which allows users to autofill their address section using thier location
+This is a flutter project which allows users to autofill their address section using thier location
 
 ## Getting Started
 
